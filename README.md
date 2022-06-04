@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+#### welcome to JEONGWONKIM'S GIT
 
-### DevOps Junior
+<!-- ### DevOps Junior -->
 
 <!-- ![Yak_shaving](https://user-images.githubusercontent.com/98450173/170815016-69ef394d-5b84-4f6b-afd0-a836f1f1a836.jpg) -->
 
