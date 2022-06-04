@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 WELCOME TO MY GIT
 
-#### welcome to JEONGWONKIM'S GIT
+#### I'M JEONG-WON KIM
 
 <!-- ### DevOps Junior -->
 
